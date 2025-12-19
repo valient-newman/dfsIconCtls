@@ -5,9 +5,9 @@
   
   My Github Repository <https://github.com/valient-newman>
 
-  dfsIconComboBox and TdfsIconListBox v1.17
+  TdfsIconComboBox and TdfsIconListBox v1.17
   
-  The caching Icon ComboBox and ListBox components for Delphi.
+  The caching Icon ComboBox and Icon ListBox components for Delphi.
   
   A dropdown list style combobox that displays the icons that exist in a given
   file, and a listbox that displays the icons that exist in a given file,
@@ -37,6 +37,3 @@
   any support whatsoever. 
 
   Date last modified by Newman: December 18, 2025 
-
-
-
