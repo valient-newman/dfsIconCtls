@@ -1,5 +1,5 @@
-  Changes in TFWHint have been made by Valient Newman to make the component meet 
-  the requirements of Delphi 2009 and higher.
+  Changes in dfsIconComboBox and TdfsIconListBox have been made by Valient Newman 
+  to make the component meet the requirements of Delphi 2009 and higher.
 
   Checked in Delphi 7 and Delphi 2007, 2009
   
