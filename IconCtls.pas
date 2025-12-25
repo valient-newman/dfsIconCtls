@@ -53,7 +53,7 @@
 { If you need any further information, please feel free to contact me directly.}
 { This agreement can be found online at my site in the "Miscellaneous" section.}
 {------------------------------------------------------------------------------}
-{ The lateset version of my components are always available on the web at:     }
+{ The latest version of my components are always available on the web at:      }
 {   http://www.delphifreestuff.com/                                            }
 { See IconCtls.txt for notes, known issues, and revision history.              }
 {------------------------------------------------------------------------------}
@@ -68,7 +68,7 @@ unit IconCtls;
 interface
 
 uses
-  {$IFDEF DFS_COMPILER_12_UP}
+  {$IFDEF DFS_COMPILER_2_UP}
   Windows,
   {$ELSE}
   WinTypes, WinProcs,

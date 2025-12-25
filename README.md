@@ -1,5 +1,5 @@
   Changes in TdfsIconComboBox and TdfsIconListBox have been made by Valient Newman 
-  to make the component meet the requirements of Delphi 2009 and higher.
+  to make the component meet the requirements of Delphi 2, 2009 and higher.
 
   Checked in Delphi 7 and Delphi 2007, 2009
   
